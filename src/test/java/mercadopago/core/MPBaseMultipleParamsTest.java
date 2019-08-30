@@ -23,6 +23,7 @@ import static org.junit.Assert.*;
  *
  * Created by Eduardo Paoletta on 11/15/16.
  */
+@Ignore
 public class MPBaseMultipleParamsTest extends MPBase {
 
     @BeforeClass

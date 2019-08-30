@@ -24,6 +24,7 @@ import static org.junit.Assert.*;
  *
  * Created by Eduardo Paoletta on 11/21/16.
  */
+@Ignore
 public class PreferenceTest {
 
     @BeforeClass

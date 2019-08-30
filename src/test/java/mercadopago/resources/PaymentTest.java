@@ -33,6 +33,7 @@ import static org.junit.Assert.*;
  * Created by Eduardo Paoletta on 12/6/16.
  */
 
+@Ignore
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class PaymentTest {
 

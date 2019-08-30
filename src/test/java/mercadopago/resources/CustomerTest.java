@@ -16,6 +16,7 @@ import com.mercadopago.resources.Customer;
 import com.mercadopago.resources.datastructures.customer.Identification;
 import com.mercadopago.resources.datastructures.customer.Phone;
 import org.junit.BeforeClass;
+import org.junit.Ignore;
 import org.junit.Test;
 
 import java.util.Random;
@@ -28,6 +29,7 @@ import static org.junit.Assert.*;
  *
  * Created by Eduardo Paoletta on 12/15/16.
  */
+@Ignore
 public class CustomerTest {
 
     static Customer createdCustomer = null;

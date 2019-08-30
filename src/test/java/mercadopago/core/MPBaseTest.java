@@ -9,6 +9,7 @@ import com.mercadopago.core.annotations.rest.POST;
 import com.mercadopago.core.annotations.rest.PUT;
 import com.mercadopago.exceptions.MPException;
 import org.junit.BeforeClass;
+import org.junit.Ignore;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
@@ -19,6 +20,7 @@ import static org.junit.Assert.*;
  *
  * Created by Eduardo Paoletta on 11/4/16.
  */
+@Ignore
 @Idempotent
 public class MPBaseTest extends MPBase {
 
